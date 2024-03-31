@@ -11,7 +11,7 @@ Version: V15.29.3
 
 ### Screenshots:
 
-![screenshots 1](https://media.discordapp.net/attachments/1221703680148115516/1222823933133193297/IMG_1206.png?ex=66179e88&is=66052988&hm=3454b47b7b3ef01c9c1fd994b90cf07b310436627d0b1e635b7e996347cca7e0&"Newb X Ambient")
+![screenshots 1](https://media.discordapp.net/attachments/1221703680148115516/1222823933133193297/IMG_1206.png?ex=66179e88&is=66052988&hm=3454b47b7b3ef01c9c1fd994b90cf07b310436627d0b1e635b7e996347cca7e0& "Newb X Ambient")
 
 https://media.discordapp.net/attachments/1221703680148115516/1222823934765039736/IMG_1208.png?ex=66179e89&is=66052989&hm=0142e94f24f0c2a9826bc5abac89ff363047a77c32b5761f123c5a9709e47eb0&
 
