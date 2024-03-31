@@ -7,11 +7,11 @@ Author: jaggerfinn
 Version: V15.29.3
 
 ### Social: 
-[tiktok/@jaggerfinn01](https://www.tiktok.com/@jaggerfinn01?_t=8l7oJPt3ZZJ&_r=1)
+[tiktok.com/@jaggerfinn01](https://www.tiktok.com/@jaggerfinn01?_t=8l7oJPt3ZZJ&_r=1)
 
 ### Screenshots:
 
-https://media.discordapp.net/attachments/1221703680148115516/1222823933133193297/IMG_1206.png?ex=66179e88&is=66052988&hm=3454b47b7b3ef01c9c1fd994b90cf07b310436627d0b1e635b7e996347cca7e0&
+![screenshots 1](https://media.discordapp.net/attachments/1221703680148115516/1222823933133193297/IMG_1206.png?ex=66179e88&is=66052988&hm=3454b47b7b3ef01c9c1fd994b90cf07b310436627d0b1e635b7e996347cca7e0&"Newb X Ambient")
 
 https://media.discordapp.net/attachments/1221703680148115516/1222823934765039736/IMG_1208.png?ex=66179e89&is=66052989&hm=0142e94f24f0c2a9826bc5abac89ff363047a77c32b5761f123c5a9709e47eb0&
 
