@@ -2,7 +2,7 @@
 
 Name: NewB X Ambient 
 Author: jaggerfinn
-Social: https://www.tiktok.com/@jaggerfinn01?_t=8l7oJPt3ZZJ&_r=1
+Social: [tiktok/@jaggerfinn01](https://www.tiktok.com/@jaggerfinn01?_t=8l7oJPt3ZZJ&_r=1)
 Version: V15.29.3
 Screenshots:
 
