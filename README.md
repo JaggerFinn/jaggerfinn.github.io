@@ -1,13 +1,15 @@
 # Newb X Ambient shader
 ## information 
 Name: NewB X Ambient 
+
 Author: jaggerfinn
+
 Version: V15.29.3
 
 ### Social: 
 [tiktok/@jaggerfinn01](https://www.tiktok.com/@jaggerfinn01?_t=8l7oJPt3ZZJ&_r=1)
 
-Screenshots:
+### Screenshots:
 
 https://media.discordapp.net/attachments/1221703680148115516/1222823933133193297/IMG_1206.png?ex=66179e88&is=66052988&hm=3454b47b7b3ef01c9c1fd994b90cf07b310436627d0b1e635b7e996347cca7e0&
 
